@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Facundo</h1>
-<h3 align="center">A Computer Science Student and Fullstack web Developer from Cordoba,Argentina.</h3>
+<h3 align="center">A Computer Science Student and Fullstack web Developer from Cordoba, Argentina.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakush&label=Profile%20views&color=0e75b6&style=flat" alt="hakush" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **facundo.sharry@gmail.com**
 
-- 📄 Know about my experiences at my <a href="https://github.com/Hakush/resumee/blob/master/CV_Facundo_Sharry.pdf" target="_blank"> resumee </a>
+- 📄 Know about my experiences at my [portfolio](hakush.github.io) or my <a href="https://github.com/Hakush/resumee/blob/master/CV_Facundo_Sharry.pdf" target="_blank"> resumee </a>
 
 <h3 align="left">Languages and Tools i know:</h3>
 <p align="left"> 
