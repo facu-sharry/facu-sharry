@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **facundo.sharry@gmail.com**
 
-- 📄 Know about my experiences at my [portfolio](hakush.github.io) or my <a href="https://github.com/Hakush/resumee/blob/master/CV_Facundo_Sharry.pdf" target="_blank"> resumee </a>
+- 📄 Know about my experiences at my [portfolio](https://hakush.github.io) or my <a href="https://github.com/Hakush/resumee/blob/master/CV_Facundo_Sharry.pdf" target="_blank"> resumee </a>
 
 <h3 align="left">Languages and Tools i know:</h3>
 <p align="left"> 
